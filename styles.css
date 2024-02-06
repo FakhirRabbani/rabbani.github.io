@@ -1,0 +1,95 @@
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color:white;
+}
+
+header {
+    background-color: black;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+nav {
+    background-color: black;
+    overflow: hidden;
+}
+
+nav a {
+    float: left;
+    display: block;
+    color: #fff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color: black;
+    color: #fff;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style the table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: black;
+    color:white;
+}
+
+tr:hover {
+    background-color: black;
+}
+
+/* Style the education content */
+section h2 {
+    color: #333;
+}
+
+section p {
+    margin-bottom: 10px;
+}
+
+/* Style the circular profile image */
+.profile-image {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+button {
+ ]
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px;
+}
+
+button:hover {
+    background-color: #333;
+}>
+
+    
